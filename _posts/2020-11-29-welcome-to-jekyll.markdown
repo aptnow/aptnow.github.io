@@ -82,5 +82,3 @@ new Chart(document.getElementById("canvas"), {
 });
 
 </script>
-
-</script>
