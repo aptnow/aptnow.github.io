@@ -1,11 +1,11 @@
 ---
-title:  "블로그 첫 chart"
+title:  "블로그 첫 chart222"
 date: 2018-11-29
 categories: ['일반']
 tags: ['블로그', 'jekyll', 'github', 'github.io']
 ---
 
-## 블로그가 완성되었습니다.
+## 블로그가 완성되었습니다.@@@@@@@@@@@@@
 
 <div style="width:100%;">
 <canvas id="canvas" height="300"></canvas>
