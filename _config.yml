@@ -60,8 +60,6 @@ kramdown:
     # Use existing pygments syntax highlighting css
     css_class: 'highlight'
 
-head_scripts:
-  - https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.min.js
 
 # Set the Sass partials directory, as we're using @imports
 sass:
@@ -79,3 +77,6 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+head_scripts:
+  - https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.min.js
