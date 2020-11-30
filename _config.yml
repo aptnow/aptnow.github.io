@@ -61,7 +61,7 @@ kramdown:
     css_class: 'highlight'
 
 head_scripts:
-  - https://cdnjs.com/libraries/Chart.js
+  - https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.min.js
 
 # Set the Sass partials directory, as we're using @imports
 sass:
